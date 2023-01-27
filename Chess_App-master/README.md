@@ -24,7 +24,4 @@
  -The offsets for matrix -> world coordinates should be constants to adhere to coding standards  
  -Duplicated code for combining 
 
- Additional Notes  
-  -If the camera is not the correct aspect ratio for a phone, switch to the game view in Unity.  Switch the aspect ratio to 9:16 (left corner by "Display 1").  
-  -Unity version 2019.3.0f3
-  -Asset credit to Ajay Karat of Devil's Work.shop http://devilswork.shop/ 
+
